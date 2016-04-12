@@ -1,0 +1,22 @@
+{
+  "name": "n2team_lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songnuiphan/CTT226-UDPT1516-TH2013-01-N2team-Lab01.git"
+  },
+  "author": "SongNuiPhan, NguyenThiBichNgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songnuiphan/CTT226-UDPT1516-TH2013-01-N2team-Lab01/issues"
+  },
+  "homepage": "https://github.com/songnuiphan/CTT226-UDPT1516-TH2013-01-N2team-Lab01#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
